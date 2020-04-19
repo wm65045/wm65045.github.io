@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo  MemE</title>
+        <title>WM65045</title>
         <link>https://wm65045.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.69.0 https://gohugo.io/</generator>
@@ -23,10 +23,37 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Apr 2020 15:27:50 +0800</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2020 16:20:50 +0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss+xml" href="https://wm65045.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Third</title>
+                <link>https://wm65045.github.io/post/third/</link>
+                <guid isPermaLink="true">https://wm65045.github.io/post/third/</guid>
+                <pubDate>Sun, 19 Apr 2020 16:18:48 +0800</pubDate>
+                
+                    <author>reuixiy@gmail.com (reuixiy)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description><![CDATA[<p>测试发布成功，但是这个域名的问题还是比较玄学</p>
+<p>再试试就暂时不搞了。反正还是会再重新改适配的。</p>
+<p>233</p>
+]]></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Second</title>
