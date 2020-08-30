@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test4 on wm65045.com</title>
-    <link>wm65045.com/tags/test4/</link>
+    <link>https://wm65045.com/tags/test4/</link>
     <description>Recent content in test4 on wm65045.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>庐山烟雨浙江潮</copyright>
     <lastBuildDate>Sat, 29 Aug 2020 19:08:51 +0800</lastBuildDate>
     
-	<atom:link href="wm65045.com/tags/test4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wm65045.com/tags/test4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test4</title>
-      <link>wm65045.com/post/test4/</link>
+      <link>https://wm65045.com/post/test4/</link>
       <pubDate>Sat, 29 Aug 2020 19:08:51 +0800</pubDate>
       
-      <guid>wm65045.com/post/test4/</guid>
+      <guid>https://wm65045.com/post/test4/</guid>
       <description>二、编程需要注意的问题 1.头文件包含的重要性
 #include &amp;lt;stdio.h&amp;gt;//#include &amp;lt;stdlib.h&amp;gt; malloc不添加stdlib.h这个库函数会报error  int main(void){ int *p = NULL; p = malloc(sizeof(int)); if(p == NULL) return -1; printf(&amp;#34;123&amp;#34;); return 0; } 上述程序出错的原因在于：</description>
     </item>
