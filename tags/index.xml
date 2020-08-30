@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on wm65045.com</title>
+    <link>wm65045.com/tags/</link>
+    <description>Recent content in Tags on wm65045.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>庐山烟雨浙江潮</copyright>
+    <lastBuildDate>Sat, 29 Aug 2020 20:51:18 +0800</lastBuildDate>
+    
+	<atom:link href="wm65045.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test3</title>
+      <link>wm65045.com/tags/test3/</link>
+      <pubDate>Sat, 29 Aug 2020 20:51:18 +0800</pubDate>
+      
+      <guid>wm65045.com/tags/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test4</title>
+      <link>wm65045.com/tags/test4/</link>
+      <pubDate>Sat, 29 Aug 2020 19:08:51 +0800</pubDate>
+      
+      <guid>wm65045.com/tags/test4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APUE</title>
+      <link>wm65045.com/tags/apue/</link>
+      <pubDate>Sat, 29 Aug 2020 09:12:18 +0800</pubDate>
+      
+      <guid>wm65045.com/tags/apue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>读书笔记</title>
+      <link>wm65045.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Sat, 29 Aug 2020 09:12:18 +0800</pubDate>
+      
+      <guid>wm65045.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c/c&#43;&#43;</title>
+      <link>wm65045.com/tags/c/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>wm65045.com/tags/c/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

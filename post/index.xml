@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on wm65045.com</title>
+    <link>wm65045.com/post/</link>
+    <description>Recent content in Posts on wm65045.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>庐山烟雨浙江潮</copyright>
+    <lastBuildDate>Sat, 29 Aug 2020 20:51:18 +0800</lastBuildDate>
+    
+	<atom:link href="wm65045.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test5</title>
+      <link>wm65045.com/post/test5/</link>
+      <pubDate>Sat, 29 Aug 2020 20:51:18 +0800</pubDate>
+      
+      <guid>wm65045.com/post/test5/</guid>
+      <description>二、编程需要注意的问题 1.头文件包含的重要性
+#include &amp;lt;stdio.h&amp;gt;//#include &amp;lt;stdlib.h&amp;gt; malloc不添加stdlib.h这个库函数会报error  int main(void){ int *p = NULL; p = malloc(sizeof(int)); if(p == NULL) return -1; printf(&amp;#34;123&amp;#34;); return 0; } 上述程序出错的原因在于：</description>
+    </item>
+    
+    <item>
+      <title>Test4</title>
+      <link>wm65045.com/post/test4/</link>
+      <pubDate>Sat, 29 Aug 2020 19:08:51 +0800</pubDate>
+      
+      <guid>wm65045.com/post/test4/</guid>
+      <description>二、编程需要注意的问题 1.头文件包含的重要性
+#include &amp;lt;stdio.h&amp;gt;//#include &amp;lt;stdlib.h&amp;gt; malloc不添加stdlib.h这个库函数会报error  int main(void){ int *p = NULL; p = malloc(sizeof(int)); if(p == NULL) return -1; printf(&amp;#34;123&amp;#34;); return 0; } 上述程序出错的原因在于：</description>
+    </item>
+    
+    <item>
+      <title>Test3</title>
+      <link>wm65045.com/post/test3/</link>
+      <pubDate>Sat, 29 Aug 2020 19:08:46 +0800</pubDate>
+      
+      <guid>wm65045.com/post/test3/</guid>
+      <description>二、编程需要注意的问题 1.头文件包含的重要性
+#include &amp;lt;stdio.h&amp;gt;//#include &amp;lt;stdlib.h&amp;gt; malloc不添加stdlib.h这个库函数会报error  int main(void){ int *p = NULL; p = malloc(sizeof(int)); if(p == NULL) return -1; printf(&amp;#34;123&amp;#34;); return 0; } 上述程序出错的原因在于：</description>
+    </item>
+    
+    <item>
+      <title>Second中文测试</title>
+      <link>wm65045.com/post/second%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 29 Aug 2020 09:16:27 +0800</pubDate>
+      
+      <guid>wm65045.com/post/second%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/</guid>
+      <description>零、重点  注意面试时候，做题，写明一下什么系统平台下的编译运行结果是多少，版本等等，有规范化的意识 C语言 printf(\n)中，\n换行和刷新缓冲区 main函数中写exit(0) 注意包含头函数 void *有一种特殊情况 和函数指针相关 inline函数 不是典型的函数 更像是 带参数宏定义 变量名 函数名 要有实际的意义，而不是abcd&amp;hellip;  一、前言 C语言学习建议  概念的正确性 动手 阅读优秀的程序段 大量练习题目 面试题-看其中的知识点  C课程讲解思路  基本数据类型 数据类型，运算符，表达式 输入输出 流程控制 数组 指针 函数 数组 函数 指针 三者组合的高阶内容 构造类型（实际生产环境中用得多） 动态内存管理 调试工具，调试技巧（gdb调试小段代码, make) 常用库函数 结束  平台介绍  linux，vim, gcc(make) man手册  其他重点  int main(int argc, char **argv) 接收命令行的传参 以main函数作为入口与出口，但是有例外的情况 C语言 多用空行 空格 锯齿状 在多个终端下面调试程序 gcc与make 防止因 gcc命令行操作时候Tab补齐，误补齐为源文件。 • 直接用make 目标文件名不带后缀。 之后编译器会自动寻找带后缀的文件 • makefile • 预处理 编译 汇编 链接 宏定义 预处理 vim的配置使用 • 路径为/etc/vimrc 为全部用户的配置文件 • cp /etc/vimrc ~/.</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>wm65045.com/post/first/</link>
+      <pubDate>Sat, 29 Aug 2020 09:12:18 +0800</pubDate>
+      
+      <guid>wm65045.com/post/first/</guid>
+      <description>C语言重点 零、重点  注意面试时候 ，做题，写明一下什 wdgrte234 么系统平台下的编译运行结果是多少，版本等等，有规范化的意识 C语言 printf(\n)中，\n换行和刷新缓冲区 main函数中写exit(0) 注意包含头函数 void *有一种特殊情况 和函数指针相关 inline函数 不是典型的函数 更像是 带参数宏定义 变量名 函数名 要有实际的意义，而不是abcd&amp;hellip;  一、前言 C语言学习建议  概念的正确性 动手 阅读优秀的程序段 大量练习题目 面试题-看其中的知识点  C课程讲解思路  基本数据类型 数据类型，运算符，表达式 输入输出 流程控制 数组 指针 函数 数组 函数 指针 三者组合的高阶内容 构造类型（实际生产环境中用得多） 动态内存管理 调试工具，调试技巧（gdb调试小段代码, make) 常用库函数 结束  平台介绍  linux，vim, gcc(make) man手册  其他重点  int main(int argc, char **argv) 接收命令行的传参 以main函数作为入口与出口，但是有例外的情况 C语言 多用空行 空格 锯齿状 在多个终端下面调试程序 gcc与make 防止因 gcc命令行操作时候Tab补齐，误补齐为源文件。 • 直接用make 目标文件名不带后缀。 之后编译器会自动寻找带后缀的文件 • makefile • 预处理 编译 汇编 链接 宏定义 预处理 vim的配置使用   路径为/etc/vimrc 为全部用户的配置文件  cp /etc/vimrc ~/.</description>
+    </item>
+    
+  </channel>
+</rss>
