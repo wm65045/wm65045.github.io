@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>庐山烟雨浙江潮</copyright>
-    <lastBuildDate>Sat, 29 Aug 2020 20:51:18 +0800</lastBuildDate>
-    
-	<atom:link href="https://wm65045.com/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 29 Jan 2021 09:12:18 +0800</lastBuildDate><atom:link href="https://wm65045.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>划词</title>
+      <link>https://wm65045.com/post/%E5%88%92%E8%AF%8D/</link>
+      <pubDate>Fri, 29 Jan 2021 09:12:18 +0800</pubDate>
+      
+      <guid>https://wm65045.com/post/%E5%88%92%E8%AF%8D/</guid>
+      <description>20200421 英语网页划词环境
+Anki客户端 + Chrome老黄词典插件 + Chrome沙拉聚合插件
+记录时间20200421 百度盘谷歌盘已工具存档
+  老黄githubpages博客主页
+  知乎Anki专栏
+  Github ODH
+  [Github]
+  Anki客户端安装插件，用数字码
+两种模板：
+Antimoon4.0模板&amp;ndash;正反面填词
+ODH模板&amp;ndash;单面简洁
+Anitimoon4模板</description>
+    </item>
     
     <item>
       <title>Test5</title>
